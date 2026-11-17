@@ -1,0 +1,6 @@
+data/
+.insta_session
+.match_cache.json
+matches.txt
+*.log
+__pycache__/
